@@ -1,0 +1,2 @@
+# StockBotSample
+checking stocks
