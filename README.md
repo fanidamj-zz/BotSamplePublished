@@ -1,2 +1,2 @@
-# StockBotSample
-checking stocks
+# BotSamplePublished
+MyFirstBot
